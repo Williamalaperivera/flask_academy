@@ -14,6 +14,10 @@ Este es un proyecto final desarrollado con **Python** y **Flask** para la gesti�
 
 ---
 
+
+https://github.com/user-attachments/assets/c64bea9f-7c3a-42d1-8c0e-f96702f5d14a
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 | Componente | Tecnología |
